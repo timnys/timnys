@@ -4,6 +4,6 @@
 - 👯 I’m looking to collaborate on on **open-source projects** or any innovative leads that involve AI and web technologies.
 - 🤔 I’m looking for help with **optimizing my web scraping techiniques** and discovering more efficient ways to handle data extraction.
 - 💬 Ask me about **Node.js, React, web scraping, or how to integrate AI into your applications!**
-- 📫 How to reach me: **[Email me](mailto:timothy.nys56@gmail.com)**
+- 📫 How to reach me: **[Email me](mailto:timothynys96@outlook.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I once built a chatbot that can tell dad jokes🤣😂😆
